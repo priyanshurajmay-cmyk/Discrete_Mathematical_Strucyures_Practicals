@@ -312,6 +312,3 @@ for i in range(n):
     print(f"  v{i+1}   |     {in_deg[i]}     |     {out_deg[i]}")
 ```
 
----
-
-> **Note:** All programs are written in Python 3. Each practical can be saved as a separate `.py` file and run directly from the terminal.
